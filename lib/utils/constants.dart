@@ -8,13 +8,13 @@ class Constants {
   static const alphaValue = 255;
 
   /// Max value[255]for red
-  static const maxRedIntValue = 255;
+  static const maxRedIntValue = 256;
 
   /// Max value[255]for green
-  static const maxGreenIntValue = 255;
+  static const maxGreenIntValue = 256;
 
   /// Max value[255]for blue
-  static const maxBlueIntValue = 255;
+  static const maxBlueIntValue = 256;
 
   /// Sensitivity for swipe
   static const int swipeSensitivity = 0;
